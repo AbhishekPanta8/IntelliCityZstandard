@@ -29,7 +29,7 @@ The architecture supports a scalable, distributed pipeline for real-time data in
 5. **Visualization**: Dashboards display metrics using tools like Grafana or Tableau.
 6. **Compression**: Zstandard is used to compress data, reducing storage and bandwidth requirements.
 
-![DataFlow 1](database_proj_1.png)
+![Architecture 1](database_proj_1.png)
 
 ## Technologies Used
 
@@ -72,7 +72,7 @@ The architecture supports a scalable, distributed pipeline for real-time data in
 ### Visualization Tools
 - **Role**: Provides dashboards to display city metrics.
 - **Tools**: Tableau for real-time data visualization.
-
+![Visualization 3](database_proj_4.png)
   
 
 ## Setup Guide
