@@ -29,7 +29,9 @@ The architecture supports a scalable, distributed pipeline for real-time data in
 5. **Visualization**: Dashboards display metrics using tools like Grafana or Tableau.
 6. **Compression**: Zstandard is used to compress data, reducing storage and bandwidth requirements.
 
-![Architecture Diagram](database_proj_1.png)
+![DataFlow 1](database_proj_1.png)
+![DataFlow 2](database_proj_2.png)
+![DataFlow 3](database_proj_3.png)
 
 ## Technologies Used
 
@@ -98,7 +100,9 @@ The architecture supports a scalable, distributed pipeline for real-time data in
 4. **Data Processing (Spark)**: Reads data from HDFS, performs analytics, and sends results to PostgreSQL.
 5. **Visualization**: Dashboards display metrics from PostgreSQL data.
 
-![Data Flow Diagram](database_proj_1.png)
+![DataFlow 1](database_proj_1.png)
+![DataFlow 2](database_proj_2.png)
+![DataFlow 3](database_proj_3.png)
 
 ## Data Compression with Zstandard
 
